@@ -1,2 +1,2 @@
-# Phyton-for-Machine-Learning
+# Python-for-Machine-Learning
 dujhitchakma200@gmail.com
